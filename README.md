@@ -49,7 +49,6 @@ Projects:
 * [ ] `cashapp/licensee`
 * [ ] `cashapp/molecule`
 * [ ] `cashapp/paraphrase`
-* [ ] `cashapp/redwood`
 * [ ] `cashapp/turbine`
 * [ ] `cashapp/zipline`
 * [ ] `SQLDelight/Grammar-Kit-Composer`

@@ -50,7 +50,6 @@ Projects:
 * [ ] `cashapp/molecule`
 * [ ] `cashapp/paraphrase`
 * [ ] `cashapp/turbine`
-* [ ] `cashapp/zipline`
 * [ ] `SQLDelight/Grammar-Kit-Composer`
 * [ ] `SQLDelight/sql-psi`
 * [ ] `SQLDelight/SQLDelight`
@@ -59,6 +58,5 @@ Projects:
 * [ ] `square/okio`
 * [ ] `square/okhttp`
 * [ ] `square/retrofit`
-* [ ] `square/wire`
 * [ ] `square/zstd-kmp`
 ```

@@ -54,7 +54,6 @@ Projects:
 * [ ] `SQLDelight/sql-psi`
 * [ ] `SQLDelight/SQLDelight`
 * [ ] `square/kotlinpoet`
-* [ ] `square/moshi`
 * [ ] `square/okio`
 * [ ] `square/okhttp`
 * [ ] `square/retrofit`

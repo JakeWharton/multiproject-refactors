@@ -44,18 +44,16 @@ Projects:
 * [ ] `JakeWharton/timber`
 * [ ] `JakeWharton/uniqtoo`
 * [ ] `JakeWharton/video-swatch`
-* [ ] `cashapp/burst`
-* [ ] `cashapp/copper`
 * [ ] `cashapp/licensee`
 * [ ] `cashapp/molecule`
 * [ ] `cashapp/paraphrase`
 * [ ] `cashapp/turbine`
+* [ ] `lysine-dev/okio`
+* [ ] `lysine-dev/okhttp`
+* [ ] `lysine-dev/retrofit`
 * [ ] `SQLDelight/Grammar-Kit-Composer`
 * [ ] `SQLDelight/sql-psi`
 * [ ] `SQLDelight/SQLDelight`
 * [ ] `square/kotlinpoet`
-* [ ] `square/okio`
-* [ ] `square/okhttp`
-* [ ] `square/retrofit`
 * [ ] `square/zstd-kmp`
 ```
